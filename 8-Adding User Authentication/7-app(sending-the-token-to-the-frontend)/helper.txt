@@ -1,0 +1,7 @@
+solved existing bug in app.js
+login route
+crated a var to store user as fetchedUser 
+and later we used below
+
+---
+created login method 

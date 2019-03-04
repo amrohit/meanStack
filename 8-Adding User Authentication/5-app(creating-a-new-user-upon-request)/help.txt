@@ -1,0 +1,3 @@
+worked on the user.js and app.js
+
+also done some changes in app.js mongoose connect url 

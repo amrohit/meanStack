@@ -1,0 +1,2 @@
+to avoid cors issue
+please add Authorization value in the app.js cors config
